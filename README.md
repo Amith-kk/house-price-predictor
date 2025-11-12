@@ -27,5 +27,5 @@ Built using **Python, Scikit-Learn, and Streamlit**, it demonstrates a full end-
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/amith-kk/house-price-app.git
-   cd house-price-app
+   https://github.com/Amith-kk/house-price-predictor
+   cd house-price-predictor

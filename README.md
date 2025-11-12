@@ -33,7 +33,7 @@ Built using **Python, Scikit-Learn, and Streamlit**, it demonstrates a full end-
 ---
 
 ## Screenshot
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot.png)
 
 ## ⚙️ How to Run Locally
 

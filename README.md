@@ -4,6 +4,15 @@ This project predicts house sale prices based on property features such as overa
 Built using **Python, Scikit-Learn, and Streamlit**, it demonstrates a full end-to-end machine learning pipeline — from data preprocessing to model deployment.
 
 ---
+## 🚀 Demo
+[Live App on Streamlit Cloud](https://house-price-predictor-5sowcykxifitzjash545bg.streamlit.app/)
+
+## 🧠 Model
+- **Algorithm:** Tuned Random Forest Regressor  
+- **R² Score:** ~0.89  
+- **RMSE:** ~29,500  
+- **Features:** Numeric + Categorical (Neighborhood, ExterQual)
+
 
 ## 🚀 Features
 - Random Forest Regressor tuned with GridSearch
@@ -22,6 +31,9 @@ Built using **Python, Scikit-Learn, and Streamlit**, it demonstrates a full end-
 - **Joblib** for model persistence
 
 ---
+
+## Screenshot
+![App Screenshot](screenshot.png)
 
 ## ⚙️ How to Run Locally
 
